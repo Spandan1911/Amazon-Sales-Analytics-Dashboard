@@ -62,14 +62,14 @@ amazon-sales-dashboard/
 - Step 10 — Cleaned data and summary tables exported and connected to Power BI for dashboard visualization
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🔍 Key Findings
-Area	    |Finding
-Financial	|April was the peak month for revenue and order volume
-Financial	|Sets and Kurtas are the top-selling categories (~76% of orders combined)
-Financial	|Sunday drives the highest weekly revenue
-Customer	|Maharashtra is the #1 state by order volume, followed by Karnataka and Telangana
-Customer	|April recorded the highest cancellation count
-Customer	|B2C dominates order volume; B2B has a higher average order value
-Logistics	|Amazon fulfilment handles the majority (~70%) of total orders
+- Area	    |Finding
+- Financial	|April was the peak month for revenue and order volume
+- Financial	|Sets and Kurtas are the top-selling categories (~76% of orders combined)
+- Financial	|Sunday drives the highest weekly revenue
+- Customer	|Maharashtra is the #1 state by order volume, followed by Karnataka and Telangana
+- Customer	|April recorded the highest cancellation count
+- Customer	|B2C dominates order volume; B2B has a higher average order value
+- Logistics	|Amazon fulfilment handles the majority (~70%) of total orders
 
 Overall	Total Orders: 129K · Total Revenue: ₹72M · Cancellation Rate: 14.2% · Avg Order Value: ₹556.76
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
